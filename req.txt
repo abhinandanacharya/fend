@@ -1,0 +1,5 @@
+1. navbar
+2. featured tea
+3. famous tea points in india
+
+1.-> a.home b. tea list c. contact us d. about us e. login/register(new) / myaccount(log out/ profile)
